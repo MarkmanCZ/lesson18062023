@@ -1,0 +1,2 @@
+MySummerCar;SummerCar;20
+Sunka;nwm;18
